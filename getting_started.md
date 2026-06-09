@@ -12,7 +12,7 @@
 - `uv run kedro new --starter spaceflights-pandas --name <project-name>`
 
 **2. Navigate to project folder**
--  ****`cd project-name`
+- `cd project-name`
 
 **3. Verification**
 - `uv run kedro info`
